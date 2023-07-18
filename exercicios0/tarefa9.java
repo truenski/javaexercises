@@ -1,4 +1,4 @@
-package exercicios1;
+package javaexercises.exercicios0;
 public class tarefa9 {
     public static void main(String[] args) {
         int i = 0;

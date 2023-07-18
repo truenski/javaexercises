@@ -1,4 +1,4 @@
-package exercicios1;
+package javaexercises.exercicios0;
 public class tarefa12 {
     public static void main(String[] args) {
         //12. Imprima o resultado da divisão por 2 

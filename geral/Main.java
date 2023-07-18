@@ -1,4 +1,4 @@
-package geral;
+package javaexercises.geral;
 import java.util.Map;
 
 public class Main {

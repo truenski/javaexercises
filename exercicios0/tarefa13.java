@@ -1,4 +1,4 @@
-package exercicios1;
+package javaexercises.exercicios0;
 public class tarefa13 {
     public static void main(String[] args) {
         //13. Escreva uma classe que imprima todas as possibilidades de que 

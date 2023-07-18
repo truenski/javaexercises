@@ -1,4 +1,4 @@
-package exercicios1;
+package javaexercises.exercicios0;
 public class test2 {
      public static void main (String[] args) {
          System.out.println("Inteiro - decimal: " + 11);

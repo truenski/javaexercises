@@ -1,3 +1,4 @@
+package javaexercises.exercicios1.src;
 public class exercicio6 {
     public static void main(String[] args) {
         int produtoInt = 1;

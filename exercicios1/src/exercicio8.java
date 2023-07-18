@@ -1,3 +1,4 @@
+package javaexercises.exercicios1.src;
 public class exercicio8 {
     public static boolean isPalindromo(String palavra) {
         int tamanho = palavra.length();

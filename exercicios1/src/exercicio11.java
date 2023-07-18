@@ -1,3 +1,4 @@
+package javaexercises.exercicios1.src;
 import java.util.Scanner;
 
 
